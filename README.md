@@ -138,5 +138,5 @@ const Ioooo = {
 </p>
 
 <p align="center">
-  <i>MADE WITH ❤️ BY <b>BENOVARD</b> (Ioooo / DybyTechX)</i>
+  <i>MADE WITH ❤️ BY <b>DybyTechX</b> </i>
 </p>
