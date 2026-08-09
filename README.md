@@ -35,7 +35,7 @@
 ## 🧑‍💻 About Me
 
 ```javascript
-const Ioooo = {
+const DybyTech = {
     realName    : "Benovard",
     role        : "WhatsApp Bot Developer & Web Tools Creator",
     languages   : ["JavaScript", "Node.js", "HTML", "CSS"],
