@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./dyby-logo.jpeg" width="180" alt="DYBY Logo"/>
+  <img src="./dyby-logo-cyan.png" width="180" alt="DYBY Logo"/>
 </p>
 
 <p align="center">
@@ -145,7 +145,7 @@ const Ioooo = {
   <a href="https://youtube.com/@DybyTechX">
     <img src="https://img.shields.io/badge/Subscribe-0d1117?style=for-the-badge&logo=youtube&logoColor=b026ff"/>
   </a>
-  <a href="https://instagram.com/@dyby_tech">
+  <a href="https://instagram.com/dyby_tech">
     <img src="https://img.shields.io/badge/Follow%20on%20Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=00c6ff"/>
   </a>
 </p>
